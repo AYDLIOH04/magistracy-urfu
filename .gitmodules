@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AYDLIOH04/aiengineer-urfu-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Monamimamimamo/urfu.magistracy.git
